@@ -1,6 +1,6 @@
 import java.text.DecimalFormat;
 
-public class Area2 {
+public class Area4 {
   private static DecimalFormat df2 = new DecimalFormat("#.##");
   
   public static double calcularAreaTriangulo(int base, int altura) {
